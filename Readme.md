@@ -9,7 +9,12 @@ The resources used in this game were from the **Kennedy Resource Pack**.
 ## Gameplay
 
 The Linkedin post for this Game is:
-https://www.linkedin.com/posts/asad-shayan-123496313_gamedevelopment-unity3d-indiegamedev-activity-7219658616998354944-YSry?utm_source=share&utm_medium=member_desktop
+## Game Demo
+
+
+https://github.com/user-attachments/assets/4576d868-f950-436f-a145-9810dda56132
+
+
 
 ## Features
 
